@@ -1,3 +1,7 @@
+This is an implementation of a Convex MPC with linear constraints, formulated as a quadratic program (QP). It was developed as the group project of the first year of the Advanced Robotics Master's program at Ecole Centrale de Nantes.
+This implementation was developed by João Parlatore Lancha, Ioannis Loizou and Dyuman Aditya.
+
+
 Additionally from quad-sdk's installation, to run our Convex MPC implementation it is necessary to install OSQP and OSQP-Eigen:
 
 OSQP - https://osqp.org/
