@@ -1,6 +1,7 @@
 Additionally from quad-sdk's installation, to run our Convex MPC implementation it is necessary to install OSQP and OSQP-Eigen:
 
 OSQP - https://osqp.org/
+
 OSQPEigen - https://github.com/robotology/osqp-eigen
 ------------
 [![CircleCI](https://circleci.com/gh/robomechanics/quad-sdk/tree/main.svg?style=shield)](https://circleci.com/gh/robomechanics/quad-sdk/tree/main)
